@@ -29,9 +29,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-<!-- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theurikarue&layout=compact&theme=blue-green) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true&theme=radical)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&theme=radical)
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true&theme=radical) -->
