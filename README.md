@@ -1,5 +1,3 @@
-#[![HIbYhfj.gif](https://iili.io/HIbYhfj.gif)](https://freeimage.host/) <img align="right;" width="65" alt="meet_link" #src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e6#7697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
-
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;walk with me through my profile:)."> </h1>
 
  ## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
@@ -31,13 +29,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-<!-- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact&theme=blue-green) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical)
+<!-- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theurikarue&layout=compact&theme=blue-green) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true&theme=radical)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&theme=radical)
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true&theme=radical) -->
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dancoon&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&layout=compact) -->
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true&theme=radical) -->
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theurikarue&layout=compact) -->
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
  
 
