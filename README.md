@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Theuri Karue.
+- 👋 Hi, I’m Theuri Bonface Karue.
 - 👀 I’m interested in matters tech.
 - 🌱 I’m currently learning python for app development.
 - 💞️ I’m looking to collaborate on projects.
