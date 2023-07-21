@@ -11,9 +11,7 @@
   <a href="https://github.com/theurikarue/theurikarue">
     <img src="https://komarev.com/ghpvc/?username=theurikarue&color=red" alt="profile views" />
   </a>
-  <a href="https://github.com/theurikarue=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/theurikarue=maroon&logo=github">
-  </a>
+ 
 </p>
 
 
@@ -30,7 +28,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theurikarue&theme=radical)
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true&theme=radical) -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theurikarue&layout=compact) -->
