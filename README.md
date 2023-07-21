@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;walk with me through my profile:)."> </h1>
+
 
  ## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - 👋 Hi, I’m Theuri Bonface Karue
