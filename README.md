@@ -37,7 +37,7 @@
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true&theme=radical) -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theurikarue&layout=compact) -->
-<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=You+have+reached+the+end+of+my+profile;Have+a+nice+day;Thank+you!;."></h2>
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=You+have+reached+the+end+of+my+profile;Have+a+nice+day;Thank+you+:);."></h2>
  
 
 
