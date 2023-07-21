@@ -1,6 +1,7 @@
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github+account!;Walk+with+me+through+my+profile;Enjoy+:)."> </h1>
 
 
- ## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+ # About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - 👋 Hi, I’m Theuri Bonface Karue
 - 👀 Interested in cyber security, app development
 - 🌱I am currently studying Bsc Computer Science at JKUAT. 
@@ -36,7 +37,7 @@
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true&theme=radical) -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=theurikarue&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theurikarue&layout=compact) -->
-<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=You+have+reached+the+end+of+my+profile;Have+a+nice+day;Thank+you!;."></h2>
  
 
 
