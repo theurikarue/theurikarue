@@ -5,7 +5,8 @@
 - 👋 Hi, I’m Theuri Bonface Karue
 - 👀 Interested in cyber security, app development
 - 🌱I am currently studying Bsc Computer Science at JKUAT. 
-- 📫 How to reach me @iamkarue@gmail.com
+- 📫 How to reach me Email:iamkarue@gmail.com
+                     
 
 <p align="left">
   <a href="https://github.com/theurikarue/theurikarue">
